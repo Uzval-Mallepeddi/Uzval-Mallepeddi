@@ -14,9 +14,7 @@
 
 <br />
 
----
-
-### ⚡ Skill set ⚡
+## ⚡ Skill set ⚡
 
 ### ✈️ Languages:
 
