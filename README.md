@@ -1,7 +1,6 @@
 ### Hi there, I'm Uzval - [Uzval Mallepeddi] 👋
 
 ## I'm a Student, Developer, Traveller, Photographer !
-- 🔭 I’m currently learning React framework!
 - 🎯 I’m actively looking for Full Time Employment in the United States. 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love photography and travel vlogs.
